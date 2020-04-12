@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 header {
-    background-image: url('../images/galaxy.jpg');	
+    background-image: url('../images/marble.jpg');  	
     padding: 60px;
     color: #ff6a7e;
     text-align: center;
@@ -34,4 +34,4 @@ footer {
     color: #ff6a7e;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-	background-image: url('../images/galaxy.jpg');	
+	background-image: url('../images/marble.jpg');	
