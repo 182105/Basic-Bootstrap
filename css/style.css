@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+header {
+    background-image: url('../images/galaxy.jpg');	
+    padding: 60px;
+    color: #ff6a7e;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Odibee Sans', cursive;
+}
+
+body {
+    background-image: url(../Images/Pink.jpeg);
+    background-repeat: repeat;
+}
+
+h1 {
+    color: #ff6a7e;
+    font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+.blockquote-footer {
+  background-image: url(../images/pinkk.png);
+  color: #141414;
+  font-weight: bold;
+}
+
+
+footer {
+	padding: 60px;
+    text-align: center;
+    color: #ff6a7e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+	background-image: url('../images/galaxy.jpg');	
